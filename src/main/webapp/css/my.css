@@ -1,0 +1,226 @@
+
+.btn {
+    text-align: center;
+}
+
+.regedit_box {
+    text-align: center;
+    width: 250px;
+    height: 380px;
+    background: #fff;
+    box-shadow: 0 0 5px 1px #d5caca;
+}
+
+.regedit_container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -190px 0 0 -125px;
+}
+
+.login_box {
+    text-align: center;
+    width: 250px;
+    height: 340px;
+    background: #fff;
+    box-shadow: 0 0 5px 1px #d5caca;
+}
+
+.login_container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -170px 0 0 -125px;
+}
+
+.form_btn {
+    border: none;
+    outline: none;
+    display: block;
+    margin: 10px auto 0;
+    width: 230px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 14px;
+    color: #fff;
+    background: #3D84FF;
+    text-align: center;
+    cursor: pointer;
+}
+.form_btn2{
+    border: none;
+    outline: none;
+    width: 150px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 14px;
+    color: #fff;
+    background: #ff813d;
+    text-align: center;
+    cursor: pointer;
+}
+.form_btn3{
+    border: none;
+    outline: none;
+    width: 60px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 14px;
+    color: #fff;
+    background: #ff813d;
+    text-align: center;
+    cursor: pointer;
+}
+.logo {
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    border-radius: 200px;
+    margin: 15px;
+}
+
+.input_text {
+    width: 220px;
+    height: 30px;
+    box-sizing: border-box;
+    border: solid 1px #ccc;
+    border-radius: 4px;
+    background: #f3eeee 5px 5px;
+    padding: 12px 20px 12px 30px;
+    margin-bottom: 10px;
+}
+.input_text2{
+    width: 220px;
+    height: 30px;
+    box-sizing: border-box;
+    border: solid 1px #ccc;
+    border-radius: 4px;
+    background: #fff 5px 5px;
+    padding: 12px 20px 12px 30px;
+    margin-bottom: 20px;
+}
+.icon-input {
+    position: absolute;
+    top: 5px;
+    left: 23px;
+}
+
+.mainContent {
+    float: right;
+    width: 84%;
+    height: 93%;
+    box-shadow: 1px 1px 5px 1px #ece7e7 inset;
+    /*background: #faf6f6;*/
+    background: url('../images/bg.png');
+}
+
+.sidebar {
+    width: 15%;
+    float: left;
+    height: 93%;
+    text-align: center;
+}
+
+.header {
+    background: white;
+    height: 7%;
+}
+.header_start{
+    height: 100%;
+    box-shadow: 1px 1px 10px 1px #f6f3f3;
+    float:left;
+    width:16%;
+}
+.index_btn {
+    width: 100%;
+    height: 50px;
+    padding-top: 20px;
+}
+
+.header_btn {
+    border: none;
+    outline: none;
+    width: 60px;
+    height: 100%;
+    line-height: 30px;
+    font-size: 18px;
+    color: #3d84ff;
+    background: #fff;
+    text-align: center;
+    cursor: pointer;
+}
+.user_box{
+
+    background: white;
+    width: 80%;
+    height: 380px;
+    border-radius: 4px;
+    box-shadow: 0 0 5px 1px #d5caca;
+    padding: 30px 100px;
+}
+.user_container{
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    width: 75%;
+
+}
+.topic_box{
+    background: white;
+    width: 100%;
+    min-height: 380px;
+    border-radius: 4px;
+    box-shadow: 0 0 5px 1px #d5caca;
+    padding: 30px 100px;
+    margin-bottom: 100px;
+}
+.itemLabel{
+    float:left;
+    width: 80px;
+}
+.itemLabel2{
+    float:left;
+    width: 100px;
+}
+.error{
+    color: #f66060;
+    font-size: 10px;
+    height: 15px;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.mui-content{
+    background: #d5caca;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100%;
+}
+.home_title{
+    color: #c6b7b7;
+}
+.topic_item{
+    height: 60px;
+    background: #eeebeb;
+    border-radius: 4px;
+    margin-bottom: 2px;
+    padding: 5px 20px;
+}
+.topic_item_l{
+    float: left;
+    color: #555;
+    max-width: 80%;
+}
+.topic_item_r{
+    float: right;
+}
+.comment{
+    background: #f3eeee;
+    padding: 5px 20px;
+    min-height: 60px;
+    box-shadow: 0 0 5px 1px #d5caca;
+}
